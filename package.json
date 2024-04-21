@@ -8,7 +8,11 @@
 	"author": "k.bogorodskii",
 	"license": "ISC",
 	"devDependencies": {
+		"@types/axios": "^0.14.0",
 		"@types/jest": "^29.5.12",
 		"jest": "^29.7.0"
+	},
+	"dependencies": {
+		"axios": "^1.6.8"
 	}
 }
